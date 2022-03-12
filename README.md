@@ -1,6 +1,6 @@
 ## Projeto de análise de dados utilizando um dataframe público com python
 
-Projeto para analisar um conjunto de dados de predição de insuficiência cardíaca
+Projeto para analisar um conjunto de dados de previsão de insuficiência cardíaca
 
 ### Bibliotecas: 
 
